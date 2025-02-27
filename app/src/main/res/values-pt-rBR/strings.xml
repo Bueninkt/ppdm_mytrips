@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="login">Login</string>
+    <string name="please_sign">Faça login para continuar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="account">Você não tem uma conta?</string>
+    <string name="sign_up">Cadastre-se</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="lock_icon">Cadeado Icon</string>
+</resources>
